@@ -1,6 +1,8 @@
-/annotations.json
-/geez_text_lines_2.txt
-/geez_text_lines_3.txt
-/geez_text_lines.txt
-/geezBook2.docx
-/data
+syntetic_data/annotations.json
+syntetic_data/geez_text_lines_2.txt
+syntetic_data/geez_text_lines_3.txt
+syntetic_data/geez_text_lines.txt
+syntetic_data/geezBook2.docx
+ocr_1/data/
+
+
