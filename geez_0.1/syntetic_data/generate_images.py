@@ -34,4 +34,5 @@ for i, line in enumerate(geez_text_lines):
     # Save the image
     image_path = os.path.join(output_dir, f'line_{i+1}.png')
     image.save(image_path)
+    
     print(f"Saved: {image_path}")
